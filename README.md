@@ -5,10 +5,9 @@
 
 As a DevOps Engineer, I automate software delivery processes, managing cloud infrastructure, and implementing CI/CD pipelines. My focus is on improving deployment efficiency, system reliability, and operational excellence through Infrastructure as Code, containerization, and monitoring solutions.
 
-I am passionate about building scalable platforms, streamlining workflows, and enabling teams to deliver high-quality software faster and more reliably.
 
 ---
-I am a passionate DevOps Engineer with experience in automating infrastructure, implementing CI/CD pipelines, containerization, and cloud-native technologies. I enjoy building scalable, reliable, and secure systems while continuously learning new tools and technologies.
+I am a passionate DevOps Engineer with experience in automating infrastructure, implementing CI/CD pipelines, containerization, and cloud-native technologies. building scalable platforms, streamlining workflows, reliable, and secure systems and enabling teams to deliver high-quality software faster and more reliably. while continuously learning new tools and technologies.
 
 * 🔭 Working on DevOps and Cloud projects
 * 🌱 Continuously learning containerization tools Docker, Kubernetes, Cloud infrastructure on aws, and Infrastructure Automation
