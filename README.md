@@ -1,7 +1,7 @@
-# Hi there 👋, I'm Your Name
+# hello👋, I'm Anushri katekhaye
 
 ## 🚀 About Me
-## 🎯 DevOps Engineer
+## 🎯Cloud and DevOps Engineer
 
 As a DevOps Engineer, I automate software delivery processes, managing cloud infrastructure, and implementing CI/CD pipelines. My focus is on improving deployment efficiency, system reliability, and operational excellence through Infrastructure as Code, containerization, and monitoring solutions.
 
@@ -44,6 +44,10 @@ I am a passionate DevOps Engineer with experience in automating infrastructure, 
 ---
 
 ## 📫 Connect With Me
+
+###Email-id 
+
+[Email-id](katekhayeanushri@gmail.com)
 
 ### GitHub
 
