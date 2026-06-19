@@ -1,4 +1,4 @@
-# hello👋, I'm Anushri katekhaye
+# Hello👋, I'm Anushri katekhaye
 
 ## 🚀 About Me
 ## 🎯Cloud and DevOps Engineer
