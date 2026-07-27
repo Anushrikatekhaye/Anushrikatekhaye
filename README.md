@@ -39,6 +39,13 @@ I am a passionate DevOps Engineer with experience in automating infrastructure, 
 ## 📜 Scripting
 ![Shell Scripting](https://img.shields.io/badge/Shell%20Scripting-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
+## 🐧 Operating System
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+## 🌐 Networking
+![Networking](https://img.shields.io/badge/Networking-00599C?style=for-the-badge&logo=cisco&logoColor=white)
+
 ## 📊 Monitoring & Observability
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
